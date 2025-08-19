@@ -127,7 +127,3 @@ The model achieves a **0.4 RMSPE** on the Kaggle leaderboard, demonstrating effe
 - Hyperparameter optimisation using Bayesian methods
 - Cross-validation for more robust model evaluation
 - Feature selection and importance analysis
-
-## Licence
-
-This project is open source and available under the [MIT Licence](LICENSE).
